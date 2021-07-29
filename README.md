@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gtheteacher
+- 👀 I’m interested in codibg
+- 🌱 I’m currently learning Python
